@@ -41,8 +41,8 @@ Thumbsonte aligned with event
 - Rust CLI exampl
 - Program is deployed on main net
 - Code is documented and deploy process too
-- Program is deployed via DAO and build verifiably via anchore
+- Program is deployed via DAO and build verifiably via Anchor
 
 ## Price
 
-Will 5 SOL for this program.
+Will 50 SOL for this program.
